@@ -1,9 +1,16 @@
 <?php
 /**
- * Plugin Name: Cascading Mega Menu for Elementor
- * Description: Unlimited-level cascading mega menu with full Elementor widget support.
- * Author: Terence Bentem
- * Version: 3.02
+ * Plugin Name:       Cascading Mega Menu for Elementor
+ * Plugin URI:        https://example.com/cascading-mega-menu
+ * Description:       Unlimited-level cascading mega menu with full Elementor widget support.
+ * Version:           3.02
+ * Author:            Terence Bentem
+ * Author URI:        https://example.com
+ * License:           GPLv2 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       cascading-mega-menu
+ * Requires at least: 5.0
+ * Requires PHP:      7.4
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
